@@ -5,7 +5,7 @@ This Package will create mysql connection pool from your provided encrypted data
 
 
 ### Prerequisites
-This package suppose you already know mysql2 pool do.You need to set `.env` file with `DATABASE_ENCRYPT_KEY = "Private key"`
+This package suppose you already know mysql2 pool.You need to set `.env` file with `DATABASE_ENCRYPT_KEY = "Private key"`
 
 ## Install
 ```
